@@ -14,3 +14,7 @@ The program in part 1 begins by loading 8 into the accumulator. It then adds 1 t
 ![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/85-115ns.JPG)
 ### 115 - 145 ns
 ![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/115-145ns.JPG)
+### 145 - 165 ns
+![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/145-165ns.JPG)
+### 1000 ns
+![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/last.JPG)
