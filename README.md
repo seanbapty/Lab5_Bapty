@@ -10,16 +10,22 @@ Part 1 was demonstrated to Dr. Neeble on time.
 ### 0 - 35 ns
 Output was given in Lab instructions. Reference instruction worksheet for guidance.
 ### 35 - 60 ns
+ADDI
 ![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/35-60.JPG)
 ### 65 - 85 ns
+OUT
 ![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/65-85ns.JPG)
 ### 85 - 115 ns
+OUT
 ![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/85-115ns.JPG)
 ### 115 - 145 ns
+JN
 ![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/115-145ns.JPG)
 ### 145 - 165 ns
+JN
 ![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/145-165ns.JPG)
 ### 1000 ns
+JMP
 ![alt tag](https://raw.githubusercontent.com/seanbapty/Lab5_Bapty/master/last.JPG)
 
 # Part 2
