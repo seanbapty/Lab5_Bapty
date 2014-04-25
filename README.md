@@ -32,6 +32,12 @@ JMP
 # Part 2
 Part 2 functionality was never completed see A/B functionality for a cool counter that lets you know when you've reached 100 with an A output.
 
+## A/B Functionality
+Two programs were writeen for A/B functionality. The first is a twos compliment converter. Given an input on input 0, the twos compliment is outputted on output 0. The second program counts up from a given input until a negaitve number is input when it stops counting. This program only outputs 2 digits and therefore rolls over when it reaches 99. See the links below for demonstrations of these programs.
+
+#### 2s Compliment
+#### Counter
+
 ## Part 2 Questions
 ###	When the controller’s current state is “FETCH,” what is the status of the following control lines:
 
